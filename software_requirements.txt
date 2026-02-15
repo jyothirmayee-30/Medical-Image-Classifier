@@ -1,0 +1,7 @@
+streamlit>=1.26.0
+tensorflow
+keras
+opencv-python-headless
+numpy
+pillow
+pydicom
