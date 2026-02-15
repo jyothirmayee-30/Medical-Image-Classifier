@@ -1,1 +1,6 @@
-
+__pycache__/
+.venv/
+models/*.h5
+models/*.weights
+cache/
+*.dcm
